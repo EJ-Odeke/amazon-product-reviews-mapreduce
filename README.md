@@ -8,24 +8,24 @@ The project demonstrates end-to-end big data processing — from data preparatio
 
 **Dataset**
 
-Source: Amazon Review Data (2018) by Julian McAuley, UCSD
-Category: Musical Instruments
-Size: 1,512,530 reviews | 120,400 products
-Time Period: Reviews up to October 2018
-Key Fields: reviewerID, asin (Product ID), overall (star rating), reviewText, helpful (votes), unixReviewTime, etc.
-Dataset Link: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/ (Musical Instruments category)
+- Source: Amazon Review Data (2018) by Julian McAuley, UCSD
+- Category: Musical Instruments
+- Size: 1,512,530 reviews | 120,400 products
+- Time Period: Reviews up to October 2018
+- Key Fields: reviewerID, asin (Product ID), overall (star rating), reviewText, helpful (votes), unixReviewTime, etc.
+- Dataset Link: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/ (Musical Instruments category)
 
 **Objectives**
 
-Implement multiple MapReduce jobs to compute key metrics from a large-scale review dataset.
-Demonstrate data aggregation, numerical computation, and ranking using the MapReduce paradigm.
-Derive actionable insights for e-commerce product performance and customer feedback analysis.
+- Implement multiple MapReduce jobs to compute key metrics from a large-scale review dataset.
+- Demonstrate data aggregation, numerical computation, and ranking using the MapReduce paradigm.
+- Derive actionable insights for e-commerce product performance and customer feedback analysis.
 
 **Technologies & Tools**
 
-Programming Language: Python
-MapReduce Framework: mrjob library
-Development & Testing: Local mode + Hadoop/EMR
-Data Handling: Python (Pandas for exploration), JSON parsing
+- Programming Language: Python
+- MapReduce Framework: mrjob library
+- Development & Testing: Local mode + Hadoop/EMR
+- Data Handling: Python (Pandas for exploration), JSON parsing
 
 
