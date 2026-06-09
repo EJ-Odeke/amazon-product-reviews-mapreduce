@@ -1,6 +1,5 @@
 # amazon-product-reviews-mapreduce
-## Project Title:
-### **MapReduce Analysis of Amazon Fine Food Reviews using mrjob**
+## **MapReduce Analysis of Amazon Musical Instruments Reviews using mrjob**
 
 **Project Summary**
 
